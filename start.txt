@@ -1,4 +1,4 @@
 Test Git Quick Start demo . 
 Editing file for check .
-Modifying .
+Modifying file for mynewbranch branch .
 By - Deep Dighe .
