@@ -1,4 +1,4 @@
 Test Git Quick Start demo . 
 Editing file for check .
-Modifying file for mynewbranch branch .
+Merging file for mynewbranch branch with fastforward merge disabled . 
 By - Deep Dighe .
