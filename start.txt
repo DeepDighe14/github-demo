@@ -1,6 +1,5 @@
 Test Git Quick Start demo . 
 Editing file for check .
 Merging file for mynewbranch branch with fastforward merge disabled . 
-For conflict testing modifying this file .
-Change - 1 .
+For stashing modifying this file .
 By - Deep Dighe .
